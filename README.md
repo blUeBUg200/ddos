@@ -5,9 +5,9 @@ In network intrusion detection (IDS), anomaly-based approaches in particular suf
           
           SASTRA Intrusion Detection Evaluation Data Set pocesses the following characteristics:
           
-          * Realistic network and traffic
-          * Complete capture
-          * Diverse intrusion scenarios
+          * Complete packet capture
+          * Realistic network traffic
+          * Multiple varieties of attacks
           
           
 Distributed Denial of Service(DDOS) is a type of DOS attack where multiple compromised systems, which are often infected with a Trojan, are used to target a single system causing a Denial of Service (DoS) attack. Victims of a DDoS attack consist of both the end targeted system and all systems maliciously used and controlled by the hacker in the distributed attack.So,our work mainly focuses on generating firehose of network packets for various kinds of DDOS attacks. SASTRA IDS dataset consists of 13 varieties of network based DDOS attacks which attackers usually carryout to take down the network. Environmental setup, server configuration, attack description, tools used and python scripts for dataset generation and preprocessing will be available in my repository.
