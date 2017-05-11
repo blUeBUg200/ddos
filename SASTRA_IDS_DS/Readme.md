@@ -1,4 +1,4 @@
-# ABOUT
+# About
 
 Tool used for packet capture : Wireshark.
 
