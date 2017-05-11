@@ -1,4 +1,4 @@
-# Syntax to execute the DDOS Script
+# Syntax to execute the DDOS script
 
 Example 1 : Execute  a TCP SYN attack
       
