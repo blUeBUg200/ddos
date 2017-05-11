@@ -1,0 +1,64 @@
+#mainbar
+{
+
+width:65%;
+height:1000px;
+float:left;
+background-color:#f3faf6;
+}
+
+
+
+#sidebar
+{
+position:relative;
+width:35%;
+height:1000px;
+float:right;
+background-color:#f3faf6;
+
+}
+
+
+
+
+.paralink ,a{
+  margin-left:50px;
+}
+
+
+
+
+h2
+{
+font-size: 30px;
+
+}
+
+
+
+p{
+  margin-left:50px;
+}
+
+
+
+.footer
+{
+  position: relative;
+width:100%:
+height:200px;
+background-color: gray;
+clear:both;
+
+}
+
+
+
+#footer1
+{
+  position:relative;
+  background-color: #797d6b;
+  width:auto;
+  height:auto;
+}

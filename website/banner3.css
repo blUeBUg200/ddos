@@ -1,0 +1,19 @@
+﻿#banner
+{
+
+border-radius:15px;
+  box-sizing: border-box;
+  padding:40px;
+width:100%;
+height:450px;
+background-color: red;
+margin-top:-2px;
+background-image: url("3.jpg");
+}
+
+#bannertext
+{
+  color:white;
+  font-size: inherit;
+  padding:80px;
+}
