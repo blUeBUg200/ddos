@@ -1,6 +1,8 @@
 # Distributed Denial Of Service (DDOS)
 
                              SYNTHETIC DATASET GENERATION FOR DDOS ATTACKS
+
+
 In Network based Intrusion Detection Systems(NIDS), anomaly-based approaches in particular suffer from accurate evaluation, comparison, and deployment which originates from the scarcity of adequate datasets. Many such datasets are internal and cannot be shared due to privacy issues, whereas others are heavily anonymized and do not reflect current trends, or they lack certain statistical characteristics. 
 
 These deficiencies are primarily the reasons why a perfect dataset is yet to exist. Thus, researchers must resort to datasets which are easily available, that are often suboptimal.As network behaviors and patterns change and intrusions evolve, it has very much become necessary to move away from static and one-time datasets toward more dynamically generated datasets which not only reflect the traffic compositions and intrusions of that time, but are also modifiable, extensible, and reproducible.The profiles are then employed in an experiment to generate the desirable dataset in a testbed environment. 
