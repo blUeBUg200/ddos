@@ -1,6 +1,8 @@
 # Distributed Denial Of Service (DDOS)
 
+
                              SYNTHETIC DATASET GENERATION FOR DDOS ATTACKS
+
 
 
 In Network based Intrusion Detection Systems(NIDS), anomaly-based approaches in particular suffer from accurate evaluation, comparison, and deployment which originates from the scarcity of adequate datasets. Many such datasets are internal and cannot be shared due to privacy issues, whereas others are heavily anonymized and do not reflect current trends, or they lack certain statistical characteristics. 
