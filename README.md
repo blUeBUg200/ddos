@@ -18,9 +18,8 @@ Various multi-stage attacks scenarios were subsequently carried out to supply th
           * Multiple varieties of attacks
           
           
-Distributed Denial of Service(DDOS) is a type of DOS attack where multiple compromised systems, which are often infected with a Trojan, are used to target a single system causing a Denial of Service (DoS) attack. Victims of a DDoS attack consist of both the end targeted system and all systems maliciously used and controlled by the hacker in the distributed attack.So,our work mainly focuses on generating firehose of network packets for various kinds of DDOS attacks. SASTRA IDS dataset consists of 12 varieties of network based DDOS attacks which attackers usually carryout to take down the target network. Environmental setup, server configuration, attack description, tools used and python scripts for dataset generation and preprocessing will be available in this repository.
+Distributed Denial of Service(DDOS) is a type of DOS attack where multiple compromised systems, which are often infected with a Trojan, are used to target a single system or a service causing a Denial of Service (DoS) attack. Victims of a DDoS attack consist of both the targeted system / service / organizations and all systems maliciously used and controlled by the hacker in the distributed attack. So,our work mainly focuses on generating firehose of network packets for various kinds of DDOS attacks. SASTRA IDS dataset consists of 12 varieties of network based DDOS attacks which attackers usually carryout to take down the target network. Environmental setup, server configuration, attack description, tools used and python scripts for dataset generation and preprocessing will be available in this repository.
 
 SASTRA IDS dataset consists of labeled network traces, including full packet payloads in pcap format, which along with the relevant profiles are publicly available for researchers.
 
-NOTE:
-These scripts should be used only for educational purpose and practice in environment where you have the ownership to carryout these operations.
+NOTE: These scripts should be used only for educational/research purpose and practice in environment where you have the authorization to carryout such operations.
